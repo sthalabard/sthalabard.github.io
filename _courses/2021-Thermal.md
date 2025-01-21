@@ -2,8 +2,8 @@
 title: "Thermal and Statistical Aspects of Fluid Dynamics"
 collection: courses
 type: "Summer doctorate course"
-date: 2020-01-01
-datefinal: 2020-02-27
+date: 2021-01-01
+datefinal: 2021-02-27
 permalink: 2021_Thermal
 venue: "IMPA"
 cohost: Alexei Mailybaev (IMPA)
