@@ -31,6 +31,6 @@ excerpt: " "
 
     - Lecture 9: Group theory approach to quasi-Lagrangian formalism. Perspectives.
 
-- [Class Notes]({{site.baseurl}}/files/course_2021/section1.zip)
+- [Class Notes]({{site.baseurl}}/files/course_2024_HS.zip)
     -  Simon (lecture_1, lecture_2, lecture_3, lecture_6_7) 
     -  Alexei (lecture_4_5_6, lecture_8_9)
