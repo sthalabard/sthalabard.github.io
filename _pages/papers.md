@@ -32,7 +32,7 @@ in random scalar advection,
 <br>
 [PRL 2023](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.064001?casa_token=6K6M05nhC6UAAAAA%3AqqbM0H6CQl98lXnB16W3XPE_UlJXqZugl1oFSpITfhoQmjmEpU-DUMPqBPd_J6cbBf76bIYZvWJMaVw){:target="_blank"},&nbsp;
 [arXiv](https://
-arxiv.org/abs/2305.098399){:target="_blank"}
+arxiv.org/abs/2305.09839){:target="_blank"}
 
 0. Anomalous dissipation and spontaneous stochasticity
 <br>

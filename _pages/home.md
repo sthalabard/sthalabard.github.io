@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <center>
-<img src="{{ site.baseurl }}/images/SIMON.jpg" alt="pic1" style="height: 300px" >
+<img src="{{ site.baseurl }}/images/st_0.jpeg" alt="pic1" style="height: 300px" >
 </center>
 
 ## Affiliations
