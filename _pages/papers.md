@@ -4,10 +4,15 @@ title: "Papers"
 author_profile: true
 ---
 
+0. Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity,
+<i>
+with  André Considera
+</i>
+<br>
+[arXiv](https://arxiv.org/abs/2503.18851){:target="_blank"}
+
 0. Surface quasigeostrophic turbulence:
-<br>
  the refined study of an active scalar, 
-<br>
 <i>
 with  Nicolas Valade and Jérémie Bec
 </i>
