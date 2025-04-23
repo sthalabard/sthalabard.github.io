@@ -4,6 +4,14 @@ title: "Papers"
 author_profile: true
 ---
 
+0. Scale invariance of intermittency in LES turbulence
+<i>
+with Bruno Magacho, Michele Buzzicotti, Fabio Bonaccorso, Luca Biferale and Alexei Mailybaev
+</i>
+<br>
+[arXiv](https://arxiv.org/abs/2504.15874){:target="_blank"}
+
+
 0. Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity,
 <i>
 with  André Considera
@@ -28,6 +36,7 @@ with  Nicolas Valade and Jérémie Bec
 with  Ciro Campolina and Éric Simonnet
 </i>
 <br>
+[J. Phys. A 2025](https://iopscience.iop.org/article/10.1088/1751-8121/adc773){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2501.07377){:target="_blank"}
 
 0. From zero-mode intermittency to hidden symmetry
