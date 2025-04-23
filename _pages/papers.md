@@ -4,7 +4,7 @@ title: "Papers"
 author_profile: true
 ---
 
-0. Scale invariance of intermittency in LES turbulence
+0. Scale invariance of intermittency in LES turbulence,
 <i>
 with Bruno Magacho, Michele Buzzicotti, Fabio Bonaccorso, Luca Biferale and Alexei Mailybaev
 </i>
