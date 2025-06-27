@@ -27,8 +27,9 @@ My research activities address the stochastic modeling of turbulent patterns, co
 
 - the spontaneous stochasticity phenomenon.  
 
-*Those topics offer many exciting projects for prospective Master/PhD students and postdocs. Any inquiry, please  feel free to contact me.*
-
+*Those topics offer many exciting projects for prospective Master/PhD students and postdocs.*
+**NEW (June 28.): Postdoc opportunity on scalar turbulence: please see the advert**
+*Any inquiry, please  feel free to contact me.*
 
 ---
 
