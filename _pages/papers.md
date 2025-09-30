@@ -4,11 +4,20 @@ title: "Papers"
 author_profile: true
 ---
 
+0. Interplay of blowups in a differential kinetic model of gravity wave turbulence,
+<i>
+with Daniel Schubring and Vladimir Rosenhaus
+</i>
+<br>
+[arXiv](https://arxiv.org/abs/2509.23199){:target="_blank"}
+
 0. Scale invariance of intermittency in LES turbulence,
 <i>
 with Bruno Magacho, Michele Buzzicotti, Fabio Bonaccorso, Luca Biferale and Alexei Mailybaev
 </i>
 <br>
+[JFM 2025](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/scale-invariance-of-intermittency-in-les-turbulence/C105AFABEF9328A6276C0D072C268BB0
+){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2504.15874){:target="_blank"}
 
 
