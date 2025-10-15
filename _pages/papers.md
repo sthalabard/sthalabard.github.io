@@ -34,6 +34,7 @@ with  André Considera
 with  Nicolas Valade and Jérémie Bec
 </i>
 <br>
+[JFM 2025](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/surface-quasigeostrophic-turbulence-the-refined-study-of-an-active-scalar/58E43291F8EC7181A3C6144AD190097D){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2503.16294){:target="_blank"}
 
 
