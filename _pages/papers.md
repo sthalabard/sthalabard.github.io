@@ -4,6 +4,13 @@ title: "Papers"
 author_profile: true
 ---
 
+0. Melting dynamics and mixing layer growth near the ice-ocean interface,
+<i>
+with Sof\'ia Allende, Louis-Alexandre Couston and Benjamin Favier
+</i>
+<br>
+[arXiv](https://arxiv.org/abs/2601.18674){:target="_blank"}
+
 0. Interplay of blowups in a differential kinetic model of gravity wave turbulence,
 <i>
 with Daniel Schubring and Vladimir Rosenhaus
