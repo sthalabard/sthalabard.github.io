@@ -6,7 +6,7 @@ author_profile: true
 
 0. Melting dynamics and mixing layer growth near the ice-ocean interface,
 <i>
-with Sof\'ia Allende, Louis-Alexandre Couston and Benjamin Favier
+with Sofia Allende, Louis-Alexandre Couston and Benjamin Favier
 </i>
 <br>
 [arXiv](https://arxiv.org/abs/2601.18674){:target="_blank"}
