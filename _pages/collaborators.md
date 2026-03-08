@@ -22,12 +22,15 @@ author_profile: true
 - [Vishwanath Shukla](https://vishwanathshukla.in/people/)
 - [Bruce Turkington](Bruce Turkington)
 
-## Current students
+## Current collaborators
 
-- André Luis Peixoto Considera (PhD)
-- Nicolas Valade  (PhD)
+- André Luis Peixoto Considera (PostDoc)
+- Long Li  (PostDoc)
 
 ## Former students
 
-- Arnaud Guardia (M1)
-- Nathan Badshaw (L3)
+- Nathan Badshaw (L3,2024)
+- André Luis Peixoto Considera (PhD,2025)
+- Jorge Carreno Donoso (M2,2025)
+- Arnaud Guardia (M1,2024)
+- Nicolas Valade  (PhD,2025)
