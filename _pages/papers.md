@@ -11,12 +11,21 @@ with Sofia Allende, Louis-Alexandre Couston and Benjamin Favier
 <br>
 [arXiv](https://arxiv.org/abs/2601.18674){:target="_blank"}
 
-0. Interplay of blowups in a differential kinetic model of gravity wave turbulence,
+0. Blowup driven by critical balance in a differential kinetic model of gravity wave turbulence,
 <i>
 with Daniel Schubring and Vladimir Rosenhaus
 </i>
 <br>
+[Physica D 2026](https://www.sciencedirect.com/science/article/pii/S0167278926001156){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2509.23199){:target="_blank"}
+
+0. Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity,
+<i>
+with  André Considera
+</i>
+<br>
+[AHP 2026](https://link.springer.com/article/10.1007/s00023-026-01689-w){:target="_blank"},&nbsp;
+[arXiv](https://arxiv.org/abs/2503.18851){:target="_blank"}
 
 0. Scale invariance of intermittency in LES turbulence,
 <i>
@@ -26,14 +35,6 @@ with Bruno Magacho, Michele Buzzicotti, Fabio Bonaccorso, Luca Biferale and Alex
 [JFM 2025](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/scale-invariance-of-intermittency-in-les-turbulence/C105AFABEF9328A6276C0D072C268BB0
 ){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2504.15874){:target="_blank"}
-
-
-0. Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity,
-<i>
-with  André Considera
-</i>
-<br>
-[arXiv](https://arxiv.org/abs/2503.18851){:target="_blank"}
 
 0. Surface quasigeostrophic turbulence:
  the refined study of an active scalar, 
