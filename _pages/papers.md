@@ -16,7 +16,7 @@ with Sofia Allende, Louis-Alexandre Couston and Benjamin Favier
 with Daniel Schubring and Vladimir Rosenhaus
 </i>
 <br>
-[Physica D 2026](https://www.sciencedirect.com/science/article/pii/S0167278926001156){:target="_blank"},&nbsp;
+[Phys. D 2026](https://www.sciencedirect.com/science/article/pii/S0167278926001156){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2509.23199){:target="_blank"}
 
 0. Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity,
