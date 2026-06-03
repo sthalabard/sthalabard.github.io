@@ -12,7 +12,7 @@ with Alexei Mailybaev
 [arXiv](https://arxiv.org/abs/2605.26359){:target="_blank"}
 
 0. Dynamical cooling driven by self-similar fronts in the 2D nonlinear
-Schrodinger model,
+Schrödinger model,
 <i>
 with Jason Laurie and  Sergey Nazarenko
 </i>
