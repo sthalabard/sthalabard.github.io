@@ -4,13 +4,6 @@ title: "Papers"
 author_profile: true
 ---
 
-0. Perturbative anomalous exponents from Kolmogorov multipliers,
-<i>
-with Alexei Mailybaev
-</i>
-<br>
-[arXiv](https://arxiv.org/abs/2605.26359){:target="_blank"}
-
 0. Dynamical cooling driven by self-similar fronts in the 2D nonlinear
 Schrödinger model,
 <i>
@@ -19,11 +12,21 @@ with Jason Laurie and  Sergey Nazarenko
 <br>
 [arXiv](https://arxiv.org/abs/2605.06396){:target="_blank"}
 
+0. Perturbative anomalous exponents from Kolmogorov multipliers,
+<i>
+with Alexei Mailybaev
+</i>
+<br>
+[PRL 2026](https://journals.aps.org/prl/accepted/10.1103/6qrr-3646){:target="_blank"},&nbsp;
+[arXiv](https://arxiv.org/abs/2605.26359){:target="_blank"}
+
 0. Melting dynamics and mixing layer growth near the ice-ocean interface,
 <i>
 with Sofia Allende, Louis-Alexandre Couston and Benjamin Favier
 </i>
 <br>
+[JFM 2026](https://doi.org/10.1017/jfm.2026.11887)
+{:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2601.18674){:target="_blank"}
 
 0. Blowup driven by critical balance in a differential kinetic model of gravity wave turbulence,
