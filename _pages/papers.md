@@ -25,8 +25,7 @@ with Alexei Mailybaev
 with Sofia Allende, Louis-Alexandre Couston and Benjamin Favier
 </i>
 <br>
-[JFM 2026](https://doi.org/10.1017/jfm.2026.11887)
-{:target="_blank"},&nbsp;
+[JFM 2026](https://doi.org/10.1017/jfm.2026.11887){:target="_blank"},&nbsp;
 [arXiv](https://arxiv.org/abs/2601.18674){:target="_blank"}
 
 0. Blowup driven by critical balance in a differential kinetic model of gravity wave turbulence,
