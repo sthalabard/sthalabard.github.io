@@ -19,18 +19,17 @@ with Long Li  and  André Considera
 <br>
 [arXiv](https://arxiv.org/abs/2608.29321){:target="_blank"}
 
-----
-
-###  Published
-
 0. Dynamical cooling driven by self-similar fronts in the 2D nonlinear
 Schrödinger model,
 <i>
 with Jason Laurie and  Sergey Nazarenko
 </i>
 <br>
-JPA 2026 &nbsp;
 [arXiv](https://arxiv.org/abs/2605.06396){:target="_blank"}
+
+----
+
+###  Published
 
 0. Perturbative anomalous exponents from Kolmogorov multipliers,
 <i>
