@@ -1,9 +1,10 @@
 ---
 permalink: /collaborators/
-title: "Main collaborators"
+title: "Research collaborators"
 author_profile: true
 ---
 
+- [Sofia Allende](https://sofiallende.github.io/)
 - [Jérémie Bec](http://www-sop.inria.fr/members/Jeremie.Bec/) 
 - [Christophe Brouzet](https://sites.google.com/site/cbrouzet) 
 - [Ciro Sobrinho Campolina Martins](https://www.sns.it/en/persona/ciro-sobrinho-campolina-martins) 
