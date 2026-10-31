@@ -7,6 +7,7 @@ author_profile: true
 - [Jérémie Bec](http://www-sop.inria.fr/members/Jeremie.Bec/) 
 - [Christophe Brouzet](https://sites.google.com/site/cbrouzet) 
 - [Ciro Sobrinho Campolina Martins](https://www.sns.it/en/persona/ciro-sobrinho-campolina-martins) 
+- [André Luis Peixoto Considera](https://scholar.google.com/citations?user=g6jLZGsAAAAJ&hl=fr&oi=ao)
 - [Bérengère Dubrulle](https://iramis.cea.fr/pisp/berengere-dubrulle-135960/) 
 - [Sébastien Galtier](https://sebastien-galtier.fr/) 
 - [Vladimir Grebenev](https://scholar.google.com/citations?user=MA3WohkAAAAJ&hl=ru)
@@ -22,15 +23,15 @@ author_profile: true
 - [Vishwanath Shukla](https://vishwanathshukla.in/people/)
 - [Bruce Turkington](Bruce Turkington)
 
-## Current collaborators
+## Current team
 
-- André Luis Peixoto Considera (PostDoc)
-- Long Li  (PostDoc)
+- [Long Li](https://matlong.github.io/)  (PostDoc)
 
 ## Former students
 
 - Nathan Badshaw (L3,2024)
-- André Luis Peixoto Considera (PhD,2025)
+- André Luis Peixoto Considera (PhD, defended in 2025 & Postdoc )
 - Jorge Carreno Donoso (M2,2025)
 - Arnaud Guardia (M1,2024)
-- Nicolas Valade  (PhD,2025)
+- Robin Laperrière (M2,2026)
+- Nicolas Valade  (M2 & PhD, defended in 2025)
