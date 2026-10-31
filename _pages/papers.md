@@ -6,7 +6,7 @@ author_profile: true
 
 ### Preprints
 
-0. Emergence of Zonal Flows in an Imbalanced Point-Vortex System,
+0. Emergence of zonal flows in an imbalanced point-vortex system,
 <i>
 with Jorge Carreno-Donoso, Ying Zhu, Thomas Frisch, Jason Laurie  and  Sergey Nazarenko
 </i>
