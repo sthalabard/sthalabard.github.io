@@ -3,6 +3,25 @@ permalink: /papers/
 title: "Papers"
 author_profile: true
 ---
+### Preprints
+0. Emergence of Zonal Flows in an Imbalanced Point-Vortex System,
+<i>
+with Jorge Carreno-Donoso, Ying Zhu, Thomas Frisch, Jason Laurie  and  Sergey Nazarenko
+</i>
+<br>
+[arXiv](https://arxiv.org/abs/2610.38612){:target="_blank"}
+
+0. Simulating passive scalar advection in rough
+Kraichnan flows,
+<i>
+with Long Li  and  André Considera
+</i>
+<br>
+[arXiv](https://arxiv.org/abs/2608.29321){:target="_blank"}
+
+----
+
+###  Published
 
 0. Dynamical cooling driven by self-similar fronts in the 2D nonlinear
 Schrödinger model,
@@ -10,6 +29,7 @@ Schrödinger model,
 with Jason Laurie and  Sergey Nazarenko
 </i>
 <br>
+JPA 2026 &nbsp;
 [arXiv](https://arxiv.org/abs/2605.06396){:target="_blank"}
 
 0. Perturbative anomalous exponents from Kolmogorov multipliers,
