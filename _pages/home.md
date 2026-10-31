@@ -12,22 +12,15 @@ redirect_from:
 </center>
 
 ## Affiliations
-I am  an associate professor  at  Université Côte d'Azur,  affiliated jointly  
-- with the [out-of-equilibrium and non-linear physics team](https://inphyni.univ-cotedazur.eu/research/nonlinear-physics-complex-fluids-and-biophysics){:target="_blank"} at  [Institut de Physique de Nice](https://inphyni.univ-cotedazur.eu/){:target="_blank"}  for research
-- and with the  [Polytech Nice Sophia engineering school](https://polytech.univ-cotedazur.fr/) for  teaching.
+I am  an associate professor  at  Université Côte d'Azur, jointly affiliated  with the [non-equilibrium and non-linear physics team](https://inphyni.univ-cotedazur.eu/research/nonlinear-physics-complex-fluids-and-biophysics){:target="_blank"} at  [Institut de Physique de Nice](https://inphyni.univ-cotedazur.eu/){:target="_blank"}  for research
+and with the  [Polytech Nice Sophia engineering school](https://polytech.univ-cotedazur.fr/) for  teaching.
 
 
 ## Research
 
-My research activities address the stochastic modeling of turbulent patterns, combining insights from observations, direct numerical simulations and  solvable  minimal models. In the past  years, I have been working  on problems involving  an interplay between singularities  and predictability, more specifically focusing on
+My research activities address the stochastic modeling of turbulent patterns, combining observations, direct numerical simulations and  minimal models. In the past  years, I have been working  on problems involving  an interplay between singularities  and predictability, more specifically focusing on the statistical modeling of intermittency,  blowup scenarios in fluid models,  and the spontaneous stochasticity phenomenon.  
 
-- the statistical modeling of intermittency, 
-
-- blowup scenarios in fluid models, 
-
-- the spontaneous stochasticity phenomenon.  
-
-*Those topics offer many exciting projects for prospective Master/PhD students and postdocs. Any inquiry, please  feel free to contact me.*
+*Those topics offer exciting projects for prospective Master/PhD students and postdocs. Any inquiry, please  feel free to contact me.*
 
 ---
 

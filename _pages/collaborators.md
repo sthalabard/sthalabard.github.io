@@ -28,7 +28,7 @@ author_profile: true
 
 - [Long Li](https://matlong.github.io/)  (PostDoc)
 
-## Former students
+## Former students and postdocs
 
 - Nathan Badshaw (L3,2024)
 - André Luis Peixoto Considera (PhD, defended in 2025 & Postdoc )
