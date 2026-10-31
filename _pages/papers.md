@@ -3,7 +3,9 @@ permalink: /papers/
 title: "Papers"
 author_profile: true
 ---
+
 ### Preprints
+
 0. Emergence of Zonal Flows in an Imbalanced Point-Vortex System,
 <i>
 with Jorge Carreno-Donoso, Ying Zhu, Thomas Frisch, Jason Laurie  and  Sergey Nazarenko
@@ -26,6 +28,7 @@ with Jason Laurie and  Sergey Nazarenko
 </i>
 <br>
 [arXiv](https://arxiv.org/abs/2605.06396){:target="_blank"}
+{: reversed="reversed"}
 
 ----
 
